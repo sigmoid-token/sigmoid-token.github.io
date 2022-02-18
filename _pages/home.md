@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /home/
+permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
@@ -33,7 +33,11 @@ Ethereum is moving to proof-of-stake consensus mechanism.
 
 ### We need a new token for everyone to mine.
 
+<br />
+
 {% include feature_row %}
+
+<br/>
 
 If you want to know more about **Sigmoid**, then have a look at our [whitepaper](https://sigmoid-token.github.io/whitepaper/).
 
