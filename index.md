@@ -13,16 +13,16 @@ excerpt: >
   <small>Powered by memory-hard Balloon hashing algorithm.</small>
 feature_row:
   - image_path: /assets/images/gpu.jpg
-    alt: "asic-resistance"
-    title: "ASIC-resistance"
+    alt: "asic-resistant"
+    title: "ASIC-resistant."
     excerpt: "Balloon hashing algorithm makes Sigmoid ASIC-resistant."
   - image_path: /assets/images/exchange.jpg
     alt: "exchangeable"
-    title: "Easily exchangeable"
+    title: "Easily exchangeable."
     excerpt: "Since Sigmoid is an ERC-20 token, it is easily exchangeable for ETH or other tokens, thanks to DEX as Uniswap."
   - image_path: /assets/images/eco.jpg
     alt: "Eco-friendly"
-    title: "Eco-friendly"
+    title: "Eco-friendly."
     excerpt: "Incapacitation of ASIC-miners leads to short-term eco-friendliness."
 ---
 ## Sigmoid.
