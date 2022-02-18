@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /download/
 title: "Not yet!"
 excerpt: "Not ready yet!"
