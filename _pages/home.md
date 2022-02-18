@@ -25,12 +25,13 @@ feature_row:
     title: "Eco-friendly"
     excerpt: "Incapacitation of ASIC-miners leads to short-term eco-friendliness."
 ---
+## Sigmoid.
 
-### Ethereum is moving to proof-of-stake consensus mechanism.
+Ethereum is moving to proof-of-stake consensus mechanism.
 
-### 0xBitcoin is too hard to mine for non-ASIC miners.
+0xBitcoin is too hard to mine for non-ASIC miners.
 
-## We need a new token for everyone to mine.
+### We need a new token for everyone to mine.
 
 {% include feature_row %}
 
