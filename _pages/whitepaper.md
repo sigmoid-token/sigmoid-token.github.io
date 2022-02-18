@@ -5,7 +5,7 @@ excerpt: "Sigmoid is an ASIC-resistant token using a balloon hashing algorithm."
 last_modified_at: 2022-02-19T10:23:16-04:00
 toc: true
 ---
-
+<br />
 [Download PDF]({{ "/assets/pdf/sigmoid_whitepaper.pdf" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Introduction
