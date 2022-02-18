@@ -3,6 +3,7 @@ permalink: /whitepaper/
 title: "Sigmoid: ASIC-resistant Mineable ERC-20 Token"
 excerpt: "Sigmoid is an ASIC-resistant token using a balloon hashing algorithm."
 last_modified_at: 2022-02-19T10:23:16-04:00
+author_profile: false
 toc: true
 ---
 <br />
