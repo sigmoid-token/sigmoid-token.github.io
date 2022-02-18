@@ -3,7 +3,6 @@ permalink: /download/
 title: "Not yet!"
 excerpt: "Not ready yet!"
 last_modified_at: 2022-02-19T10:23:16-04:00
-toc: true
 ---
 
 ## Sorry, CPU miner for Sigmoid is currently under development.
