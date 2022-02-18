@@ -103,10 +103,10 @@ analytics:
 # Site Author
 author:
   name             : "John Weligon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Electrical and Computer Engineering Dept."
   location         : "S univ."
-  email            :
+  email            : "sigmoid.token@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
