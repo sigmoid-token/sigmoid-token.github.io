@@ -1,4 +1,5 @@
 ---
+layout: splash
 permalink: /whitepaper/
 title: "Sigmoid: ASIC-resistant Mineable ERC-20 Token"
 hidden: true
