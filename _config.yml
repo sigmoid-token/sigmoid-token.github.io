@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "John Weligon"
   avatar           : "/assets/images/bio-photo-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Electrical and Computer Engineering Dept."
+  bio              : "A bored and poor student looking for something to research. Currently studying Deep Learning in Electrical and Computer Engineering Dept."
   location         : "S univ."
   email            : "sigmoid.token@gmail.com"
   links:
