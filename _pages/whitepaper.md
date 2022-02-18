@@ -63,7 +63,7 @@ func Balloon(block_t header,
         // Step 2b. Hash in pseudorandomly chosen blocks.
         for i from 0 to delta-1:
             block_t idx_block = ints_to_block(t, m, i)
-            int other = to_int(hash(cnt++, salt, idx_block)) mod s_cost
+            int other = to_int(hash(cnt++, idx_block)) mod s_cost
             buf[m] = hash(cnt++, buf[m], buf[other])
 
     // Step 3. Extract output from buffer.
