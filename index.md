@@ -20,10 +20,10 @@ feature_row:
     alt: "exchangeable"
     title: "Easily exchangeable."
     excerpt: "Since Sigmoid is an ERC-20 token, it is easily exchangeable for ETH or other tokens, thanks to DEX as Uniswap."
-  - image_path: /assets/images/eco.jpg
-    alt: "Eco-friendly"
-    title: "Eco-friendly."
-    excerpt: "Incapacitation of ASIC-miners leads to short-term eco-friendliness."
+  - image_path: /assets/images/lock.jpg
+    alt: "secure"
+    title: "Secure."
+    excerpt: "The token is immune from 51% attacks unless Ethereum itself gets attacked."
 ---
 ## Sigmoid.
 
