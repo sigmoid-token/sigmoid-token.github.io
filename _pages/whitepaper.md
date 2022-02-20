@@ -41,7 +41,8 @@ Another strength of Balloon hashing other than memory-hardness is its versatilit
 Like 0xBitcoin, to prevent pre-mining and Man-in-the-Middle attack, the digest of Sigmoid's hash function includes a recent Ethereum block hash and msg.sender's address. In addition, the digest also includes another variable named *cnt* to secure memory-hardness. *cnt* increases gradually as the hashing process continues and helps mixing the hash blocks. The pseudocode below shows the whole process of Balloon hashing. 
 
 ```
-func Balloon(block_t header,
+func Balloon(block_t nonce,
+        block_t salt,   // challengeNumber, msg.sender
         int s_cost,     // Space cost (main buffer size)
         int t_cost):    // Time cost (number of rounds)
     int delta = 3       // Number of dependencies per block
@@ -49,7 +50,7 @@ func Balloon(block_t header,
     block_t buf[s_cost]): // The main buffer
 
     // Step 1. Expand input into buffer.
-    buf[0] = hash(cnt++, header)
+    buf[0] = hash(cnt++, salt, nonce)
     for m from 1 to s_cost-1:
         buf[m] = hash(cnt++, buf[m-1])
 
@@ -63,7 +64,7 @@ func Balloon(block_t header,
         // Step 2b. Hash in pseudorandomly chosen blocks.
         for i from 0 to delta-1:
             block_t idx_block = ints_to_block(t, m, i)
-            int other = to_int(hash(cnt++, header, idx_block)) mod s_cost
+            int other = to_int(hash(cnt++, salt, idx_block)) mod s_cost
             buf[m] = hash(cnt++, buf[m], buf[other])
 
     // Step 3. Extract output from buffer.
