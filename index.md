@@ -43,7 +43,7 @@ Mineable cryptocurrencies like Ethereum is moving to proof-of-stake consensus me
 
 If you want to know more about **Sigmoid**, then have a look at our [whitepaper](https://sigmoid-token.github.io/whitepaper/).
 
-[Download PDF]({{ "/assets/pdf/sigmoid_whitepaper.pdf" | relative_url }}){: .btn .btn--success .btn--large}
+[Download PDF]({{ "/assets/sigmoid_whitepaper.pdf" | relative_url }}){: .btn .btn--success .btn--large}
 
 ### Donation
 
