@@ -86,7 +86,7 @@ func Balloon(block_t nonce,
     return buf[s_cost-1]
 ```
 
-In the case of Sigmoid, *s_cost* was set to 1024 * 1024 / 32 to make the size of *buf* array 1MB, which is similar to another hashing function Scrypt. *t_cost* and *delta* were set to 3.
+In the case of Sigmoid, *s_cost* was set to 1024 * 1024 / 32 to make the size of *buf* array 260KB, which is double of another hashing function Scrypt. *t_cost* and *delta* were set to 3. If the hashing costs too much, the parameters can be changed through owner-only function.
 
 ### Switching hashing function
 
