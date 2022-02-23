@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Download Mining Software"
       url: "/download/"
 excerpt: >
-  An ASIC-resistant, mineable ERC-20 token.<br />
+  An ASIC-resistant, mineable KIP-7 token.<br />
   <small>Powered by memory-hard Balloon hashing algorithm.</small>
 feature_row:
   - image_path: /assets/images/gpu.jpg
@@ -27,15 +27,17 @@ feature_row:
 ---
 ## Sigmoid.
 
-Ethereum is moving to proof-of-stake consensus mechanism.
+Mineable cryptocurrencies like Ethereum is moving to proof-of-stake consensus mechanism.
 
-0xBitcoin is too hard to mine for non-ASIC miners.
+0xBitcoin is becoming too hard to mine, and ASIC miners are on their way.
 
 ### We need a new token for everyone to mine.
 
 <br />
 
 {% include feature_row %}
+
+### What is KIP-7?
 
 ### Whitepaper
 
