@@ -35,7 +35,9 @@ feature_row:
 
 <img src="assets/images/klaytn.jpg" width="200"/>
 
-[Klaytn](https://www.klaytn.com/) is an enterprise-grade, service-centric platform developed by Kakao, Korea. Klaytn, the currency running on the platform, is the 39th largest cryptocurrency in crypto market capitalization.
+[Klaytn](https://www.klaytn.com/) is an enterprise-grade, service-centric platform developed by Kakao, Korea.
+
+Klaytn, the currency running on the platform, is the 39th largest cryptocurrency in crypto market capitalization.
 
 KIP-7 is a fungible Klaytn Compatible Token (KCT) that has properties of uniformity and divisibility, which is very similar to ERC-20 from Ethereum.
 
