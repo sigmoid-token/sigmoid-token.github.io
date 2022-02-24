@@ -23,6 +23,9 @@ feature_row:
     alt: "exchangeable"
     title: "Easily exchangeable."
     excerpt: "Since Sigmoid is an KIP-7 token, it is easily exchangeable for Klaytn or other tokens, thanks to KLAYswap."
+    url: "#test-link"
+    btn_label: "/whitepaper/"
+    btn_class: "btn--inverse"
   - image_path: /assets/images/lock.jpg
     alt: "secure"
     title: "Secure."
