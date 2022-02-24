@@ -37,7 +37,7 @@ The rate of block creation is adjusted every 64 blocks to aim for 1 block creati
 
 ### Rewarding system
 
-Just like 0xBitcoin, maximum total supply of Sigmoid is 21 million tokens and the amount of SIG issued per block is set to decrease logarithmically, having a 50\% reduction every time half of the remaining supply has been mined. In result, total supply of Sigmoid will never exceed 21 million.
+Just like 0xBitcoin, maximum total supply of Sigmoid is 21 million tokens and the amount of SIG issued per block is set to decrease logarithmically, having a 50% reduction every time half of the remaining supply has been mined. In result, total supply of Sigmoid will never exceed 21 million.
 
 The reward halving occurs when the reward era increases. The reward era increases if the tokens minted count has exceeded the maximum era supply which is calculated via the equation below.
 
