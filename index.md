@@ -15,6 +15,7 @@ excerpt: >
   <small>0xBitcoin is becoming too hard to mine, and ASIC miners are on their way.</small><br />
   <small><b>We need a new token for everyone to mine.</b></small><br />
 feature_row:
+  overlay_color: "#5e616c"
   - image_path: /assets/images/gpu.jpg
     alt: "asic-resistant"
     title: "ASIC-resistant."
