@@ -10,7 +10,7 @@ header:
       url: "/download/"
 excerpt: >
   An ASIC-resistant, mineable KIP-7 token.<br />
-  <small>Mineable currencies like Ethereum is moving to proof-of-stake consensus mechanism.</small><br />
+  <small>Cryptocurrencies like Ethereum is moving to proof-of-stake consensus mechanism.</small><br />
   <small>0xBitcoin is becoming too hard to mine, and ASIC miners are on their way.</small><br />
   <small><b>We need a new token for everyone to mine.</b></small><br />
 feature_row:
