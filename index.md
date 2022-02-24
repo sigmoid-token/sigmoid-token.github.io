@@ -2,6 +2,7 @@
 layout: splash
 permalink: /
 hidden: true
+title: Sigmoid.
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/overlay_image.png
@@ -27,7 +28,6 @@ feature_row:
     title: "Secure."
     excerpt: "The token is immune from 51% attacks unless Ethereum itself gets attacked."
 ---
-## Sigmoid.
 
 {% include feature_row %}
 
