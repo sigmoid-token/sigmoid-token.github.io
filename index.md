@@ -26,7 +26,7 @@ feature_row:
   - image_path: /assets/images/lock.jpg
     alt: "secure"
     title: "Secure."
-    excerpt: "The token is immune from 51% attacks unless Ethereum itself gets attacked."
+    excerpt: "The token is immune from 51% attacks unless Klaytn itself gets attacked."
 ---
 
 {% include feature_row %}
@@ -46,6 +46,12 @@ Differences with ERC - 20 are:
 - The KIP-13 interface for each method group MUST be implemented.
 
 KIP-7 tokens are easily exchangeable in [KLAYswap](https://klayswap.com/), the Klaytn's DeFi solution that can take advantage of this high liquidity environment.
+
+### How can Sigmoid be ASIC-resistant?
+
+Because Sigmoid uses Balloon hashing for its key derivation function.
+
+Balloon hashing is a NIST-recommended key derivation algorithm which is theoretically proven to be memory-hard. Memory-hardness of this particular key derivation function enables Sigmoid to be ASIC-resistant. Also, parameters for Balloon hashing can be easily modified, which makes Sigmoid even more ASIC-resistant.
 
 ### Whitepaper
 
