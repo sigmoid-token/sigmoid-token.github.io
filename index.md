@@ -33,7 +33,7 @@ feature_row:
 
 <br />
 
-### What is KIP-7? What is Klaytn?
+## What is KIP-7? What is Klaytn?
 
 [Klaytn](https://www.klaytn.com/) is an enterprise-grade, service-centric platform developed by Kakao, Korea. Klaytn, the currency running on the platform, is the 39th largest cryptocurrency in crypto market capitalization.
 
@@ -47,13 +47,13 @@ Differences with ERC - 20 are:
 
 KIP-7 tokens are easily exchangeable in [KLAYswap](https://klayswap.com/), the Klaytn's DeFi solution that can take advantage of this high liquidity environment.
 
-### Whitepaper
+## Whitepaper
 
 If you want to know more about **Sigmoid**, then have a look at our [whitepaper](https://sigmoid-token.github.io/whitepaper/).
 
 [Download PDF]({{ "/assets/sigmoid_whitepaper.pdf" | relative_url }}){: .btn .btn--success .btn--large}
 
-### Donation
+## Donation
 
 You want to support us?
 
