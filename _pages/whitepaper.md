@@ -8,6 +8,8 @@ last_modified_at: 2022-02-19T10:23:16-04:00
 toc: true
 ---
 <br />
+If you want to read the whitepaper in PDF,
+
 [Download PDF]({{ "/assets/sigmoid_whitepaper.pdf" | relative_url }}){: .btn .btn--success .btn--large}
 
 ## Introduction
