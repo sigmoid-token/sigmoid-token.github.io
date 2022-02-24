@@ -10,7 +10,9 @@ header:
       url: "/download/"
 excerpt: >
   An ASIC-resistant, mineable KIP-7 token.<br />
-  <small>Powered by memory-hard Balloon hashing algorithm.</small>
+  <small>Mineable cryptocurrencies like Ethereum is moving to proof-of-stake consensus mechanism.</small>
+  <small>0xBitcoin is becoming too hard to mine, and ASIC miners are on their way.</small>
+  <small><b>We need a new token for everyone to mine.<b/></small>
 feature_row:
   - image_path: /assets/images/gpu.jpg
     alt: "asic-resistant"
@@ -26,14 +28,6 @@ feature_row:
     excerpt: "The token is immune from 51% attacks unless Ethereum itself gets attacked."
 ---
 ## Sigmoid.
-
-Mineable cryptocurrencies like Ethereum is moving to proof-of-stake consensus mechanism.
-
-0xBitcoin is becoming too hard to mine, and ASIC miners are on their way.
-
-### We need a new token for everyone to mine.
-
-<br />
 
 {% include feature_row %}
 
