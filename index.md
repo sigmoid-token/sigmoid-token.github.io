@@ -33,7 +33,7 @@ feature_row:
 
 ### What is KIP-7? What is Klaytn?
 
-![Klaytn logo](./assets/images/klaytn.jpg)
+<img src="assets/images/klaytn.jpg" width="200"/>
 
 [Klaytn](https://www.klaytn.com/) is an enterprise-grade, service-centric platform developed by Kakao, Korea. Klaytn, the currency running on the platform, is the 39th largest cryptocurrency in crypto market capitalization.
 
