@@ -19,7 +19,7 @@ feature_row:
   - image_path: /assets/images/exchange.jpg
     alt: "exchangeable"
     title: "Easily exchangeable."
-    excerpt: "Since Sigmoid is an ERC-20 token, it is easily exchangeable for ETH or other tokens, thanks to DEX as Uniswap."
+    excerpt: "Since Sigmoid is an KIP-7 token, it is easily exchangeable for Klaytn or other tokens, thanks to KLAYswap."
   - image_path: /assets/images/lock.jpg
     alt: "secure"
     title: "Secure."
@@ -37,7 +37,19 @@ Mineable cryptocurrencies like Ethereum is moving to proof-of-stake consensus me
 
 {% include feature_row %}
 
-### What is KIP-7?
+### What is KIP-7? What is Klaytn?
+
+[Klaytn](https://www.klaytn.com/) is an enterprise-grade, service-centric platform developed by Kakao, Korea. Klaytn, the currency running on the platform, is the 39th largest cryptocurrency in crypto market capitalization.
+
+KIP-7 is a fungible Klaytn Compatible Token (KCT) that has properties of uniformity and divisibility, which is very similar to ERC-20 from Ethereum.
+
+Differences with ERC - 20 are:
+
+- More optional functions are included (e.g. mint, burn and pause extension).
+- Every token transfer/mint/burn MUST be tracked by event logs. This means that a Transaction MUST be emitted for any action related to transfer/mint/burn.
+- The KIP-13 interface for each method group MUST be implemented.
+
+KIP-7 tokens are easily exchangeable in [KLAYswap](https://klayswap.com/), the Klaytn's DeFi solution that can take advantage of this high liquidity environment.
 
 ### Whitepaper
 
