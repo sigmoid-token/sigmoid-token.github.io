@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/overlay_image.png
   actions:
     - label: "<i class='fas fa-download'></i> Download Mining Software"
-      url: "/download/"
+      url: "https://github.com/sigmoid-token/sigmoid-cpu-miner"
 excerpt: >
   An ASIC-resistant, mineable KIP-7 token.<br />
   <small>Cryptos like Ethereum is moving to proof-of-stake consensus mechanism.</small><br />
