@@ -5,7 +5,7 @@ main:
   - title: "Whitepaper"
     url: https://sigmoid-token.github.io/whitepaper/
   - title: "Download"
-    url: https://sigmoid-token.github.io/download/
+    url: https://github.com/sigmoid-token/sigmoid-cpu-miner
   - title: "Notifications"
     url: /year-archive/
   # - title: "Sample Collections"
