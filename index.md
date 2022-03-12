@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/exchange.jpg
     alt: "exchangeable"
     title: "Easily exchangeable."
-    excerpt: "Since Sigmoid is an KIP-7 token, it is easily exchangeable for Klaytn or other tokens, thanks to KLAYswap."
+    excerpt: "Since Sigmoid is a KIP-7 token, it is easily exchangeable for Klaytn or other tokens, thanks to KLAYswap."
   - image_path: /assets/images/lock.jpg
     alt: "secure"
     title: "Secure."
